@@ -2,9 +2,9 @@
 
 Implementazione in Java di una versione multiplayer del gioco da tavolo Santorini per il progetto finale di Ingegneria del Software presso il Politecnico di Milano.
 
-1. Gaspare Mascolino
-2. Eugenio Facciolo
-3. Alberto Leo
+1. Alberto Leo
+2. Gaspare Mascolino
+3. Eugenio Facciolo
 
 Funzionalità Implementate:
 
